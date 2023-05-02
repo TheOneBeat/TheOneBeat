@@ -16,6 +16,4 @@ You can click the Preview link to take a look at your changes.
 ## Minute jokes
 ![Carte de blagues](https://readme-jokes.vercel.app/api)
 
-![Statistiques de votre référentiel](<https://github-readme-stats.vercel.app/api?username=TheOneBeat&show_icons=true>)
 
-![Compteur de vues de profil](https://komarev.com/ghpvc/?username=TheOneBeat)
